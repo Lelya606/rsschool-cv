@@ -1,4 +1,5 @@
 # Elena Degtiarenko
+![img.png](img.png)
 My goal is to become a full stack developer. 
 My skills: HTML, CSS, SASS, LESS, JavaScript, JQuery, React (Redux, Redux TK, 
 Styled-component, Mui, Ant-designed), Extensions for Chrome.
@@ -15,6 +16,8 @@ English level: A2.
 __E-mail:__ [Elena Degtiarenko](elenamironova0302@gmail.com)
 
 __Telegram:__ [Elena Degtiarenko](https://t.me/ElenaDegtiarenko)
+
+__Discord:__ elena.degtiarenko#7365
 
 __Skype:__ lelya-4-ever
 
